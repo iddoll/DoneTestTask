@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Line
+  m_Shader: {fileID: 4800000, guid: e18a49d1b65924c47ad53e229bf83c96, type: 3}
+  m_ValidKeywords:
+  - _DIRECTION_Y
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2998
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CullModeDoubleSided: 2
+    - _Direction: 1
+    - _EmissionGlobalPower: 0
+    - _EmissionMapPower: 0
+    - _EmissionPower: 1
+    - _Float5: 0
+    - _FrontLightPower: 1
+    - _FrontLightScale: 1
+    - _Lighttoogle: 0
+    - _Maskvalue: 2.45
+    - _Metallic: 0
+    - _NormalScale: 1
+    - _Offset: 0
+    - _Power: 0.1
+    - _Scale: 1
+    - _Smoothness: 0
+    - _Speed: 0.22
+    - _UseVertexColor: 0
+    - _Usemask: 0
+    - _VertexAnimation: 0
+    - _VertexOffsetTexture: 0
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Color0: {r: 0.1981132, g: 0.1981132, b: 0.1981132, a: 0}
+    - _ColorAlbedo: {r: 1, g: 1, b: 1, a: 0}
+    - _ColorEmissionGlobal: {r: 1, g: 1, b: 0.4470588, a: 0}
+    - _ColorEmissionMap: {r: 1, g: 1, b: 0.4470588, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FrontLightColor: {r: 0, g: 0.5, b: 0.5, a: 0}
+    - _LightColor: {r: 1, g: 0.9999999, b: 0.4470588, a: 1}
+    - _LightDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _TilingandOffsetTex: {r: 1, g: 1, b: 0, a: 0}
+    - _Vector0: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

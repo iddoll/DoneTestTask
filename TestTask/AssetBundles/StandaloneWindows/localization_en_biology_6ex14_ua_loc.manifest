@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.6f2
+CRC: 2752893532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15307f6c535cc670ec8887035a1609ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9fde418a7b2b02cd250e92927b24fd99
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c2eb1f4859260fa195fd3915f46d4252
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.3.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.1.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.5.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.1.1.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.4.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.2.1.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.6.mp3
+- Assets/Localizations/Biology_6ex14_ua_loc/en/10.2.mp3
+- Assets/InternalAssets/Resources/General/Material/BG/e_bg_mat.mat
+- Assets/Localizations/Biology_6ex14_ua_loc/en/LocalizationDataEn.json
+Dependencies: []

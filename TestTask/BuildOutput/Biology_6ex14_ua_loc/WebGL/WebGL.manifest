@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.6f2
+CRC: 3155626129
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: biology_6ex14_ua_loc
+      Dependencies:
+        Dependency_0: localization_ua_biology_6ex14_ua_loc
+    Info_1:
+      Name: localization_en_biology_6ex14_ua_loc
+      Dependencies: {}
+    Info_2:
+      Name: localization_ua_biology_6ex14_ua_loc
+      Dependencies: {}

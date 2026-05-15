@@ -1,0 +1,71 @@
+{
+  "ExperimentName": "Biology_6ex14_ua_loc",
+  "Texts": [
+    {
+      "Key": "Різноманітність життя",
+      "LocalizedText": "Diversity of life"
+    },
+    {
+      "Key": "1.4 млн",
+      "LocalizedText": "1.4 million"
+    },
+    {
+      "Key": "30 тис",
+      "LocalizedText": "30 thousand"
+    },
+    {
+      "Key": "понад 100 тис",
+      "LocalizedText": "more than 100 thousand"
+    },
+    {
+      "Key": "250 тис",
+      "LocalizedText": "250 thousand"
+    },
+    {
+      "Key": "гриби",
+      "LocalizedText": "fungi"
+    },
+    {
+      "Key": "рослини",
+      "LocalizedText": "plants"
+    },
+    {
+      "Key": "тварини",
+      "LocalizedText": "animals"
+    },
+    {
+      "Key": "бактерії",
+      "LocalizedText": "bacteries"
+    }
+  ],
+  "Textures": [],
+  "VoiceOvers": [
+    {
+      "Key": "10.1"
+    },
+    {
+      "Key": "10.2"
+    },
+    {
+      "Key": "10.2.1"
+    },
+    {
+      "Key": "10.3"
+    },
+    {
+      "Key": "10.4"
+    },
+    {
+      "Key": "10.5"
+    },
+    {
+      "Key": "10.6"
+    }
+  ],
+  "Materials": [
+    {
+      "Key": "e_bg_mat",
+      "MaterialIndex": 0
+    }
+  ]
+}
